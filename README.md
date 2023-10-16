@@ -15,6 +15,7 @@ SEW | CORE | Login Form
 - The form consists of a username and password field.
 - The form also has a login button.
 - No further login functionality is needed.
+- The form is styled with Tailwind.
 
 ### Links
 - https://my.skilldisplay.eu/en/skillset/542
